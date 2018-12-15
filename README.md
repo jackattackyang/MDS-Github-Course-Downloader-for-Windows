@@ -7,9 +7,7 @@ There are many courses on the Master of Data Science homepage. Manually clicking
 1. Navigate to your MDS course homepage (```https://github.ubc.ca/MDS-2018-19/USERNAME_home```)
 
 2. Click into the README file and again into the raw file
- <br>
 ![](images/homepage_raw.png)
-</br>
 
 3. Copy the raw file url
 
